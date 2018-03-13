@@ -1,0 +1,7 @@
+bin/
+__pycache__/
+lib/
+Credentials.txt
+NotiferaDB.db
+pip-selfcheck.json
+.pyc
